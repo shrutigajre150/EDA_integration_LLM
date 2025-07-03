@@ -27,5 +27,9 @@ Embarked - Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 ## Summary
 
 • Developed an AI-powered Gradio application to automate exploratory data analysis—implementing data ingestion, median/mode imputation, descriptive statistics, and correlation visualizations.
+
+
 • Integrated a local Mistral LLM via Ollama to generate natural-language insights from dataset summaries, enhancing research reporting.
+
+
 • Optimized preprocessing pipelines in Python (pandas, seaborn, matplotlib) to reduce manual analysis time by 80%.
